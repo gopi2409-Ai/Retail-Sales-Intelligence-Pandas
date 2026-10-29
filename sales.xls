@@ -1,0 +1,9 @@
+SaleID,CustomerID,Product,Category,Amount
+1,101,Laptop,Electronics,60000
+2,102,Phone,Electronics,20000
+3,101,Mouse,Accessories,1000
+4,103,Keyboard,Accessories,2500
+5,105,Monitor,Electronics,15000
+6,102,Headphones,Accessories,3000
+7,103,Tablet,Electronics,25000
+8,105,Mouse,Accessories,800
